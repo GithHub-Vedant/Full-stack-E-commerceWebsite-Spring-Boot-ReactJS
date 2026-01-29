@@ -1,4 +1,4 @@
-# React V-Tech E-Commerce
+# Shopper Clothing Store
 
 A modern e-commerce application built with React and Spring Boot, featuring a complete shopping experience with product browsing, cart management, and user authentication.
 
